@@ -3,6 +3,11 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+<<<<<<< HEAD
+=======
+appsettings.json
+
+>>>>>>> 6ce334a6797b4f2ef72097465f399b338f7f0e59
 # dotenv files
 .env
 
@@ -402,7 +407,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+<<<<<<< HEAD
 .idea/
+=======
+.idea
+>>>>>>> 6ce334a6797b4f2ef72097465f399b338f7f0e59
 
 ##
 ## Visual studio for Mac
@@ -426,7 +435,11 @@ test-results/
 *.dmg
 *.app
 
+<<<<<<< HEAD
 # content below from: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
+=======
+# content below from: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
+>>>>>>> 6ce334a6797b4f2ef72097465f399b338f7f0e59
 # General
 .DS_Store
 .AppleDouble
@@ -455,7 +468,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+<<<<<<< HEAD
 # content below from: https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
+=======
+# content below from: https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
+>>>>>>> 6ce334a6797b4f2ef72097465f399b338f7f0e59
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
@@ -482,5 +499,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+<<<<<<< HEAD
 API/appsettings.json
 API/reactivities.db
+=======
+>>>>>>> 6ce334a6797b4f2ef72097465f399b338f7f0e59

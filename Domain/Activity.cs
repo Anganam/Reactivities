@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 
 namespace Domain;
@@ -27,3 +28,25 @@ public class Activity
 
 
 }
+=======
+namespace Domain
+{
+    //Domain entity
+    public class Activity
+    {
+        public Guid Id { get; set; }
+
+        public string Title { get; set; }
+
+        public DateTime Date { get; set; }
+
+        public string Description { get; set; }
+
+        public string Category { get; set; }
+
+        public string City { get; set; }
+
+        public string Venue { get; set; }
+    }
+}
+>>>>>>> 6ce334a6797b4f2ef72097465f399b338f7f0e59
