@@ -12,7 +12,13 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 });
 
+//Adding CORS service
+builder.Services.AddCors();
+
 var app = builder.Build();
+
+//Configure the HTTP pipeline
+app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000","https://localhost:3000"));
 
 app.MapControllers();
 
