@@ -1153,8 +1153,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\Anganam\\2025-Projects\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\Anganam\\2025-Projects\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\Anganam\\2025-Projects\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Anganam\\2025-Projects\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
