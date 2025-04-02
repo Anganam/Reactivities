@@ -81,6 +81,7 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
+*obj
 *.iobj
 *.pch
 *.pdb
@@ -104,7 +105,6 @@ StyleCopReport.xml
 *.svclog
 *.scc
 *.dll
-
 
 # Chutzpah Test files
 _Chutzpah*
@@ -484,13 +484,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
-API/appsettings.json
-API/reactivities.db
-API/bin/Debug/net9.0/Application.dll
-API/obj/Debug/net9.0/API.dll
 API/bin/Debug/net9.0/API.dll
-API/bin/Debug/net9.0/Application.dll
-Domain/obj/Debug/net9.0/refint/Domain.dll
-API/bin/Debug/net9.0/Domain.pdb
-API/bin/Debug/net9.0/API.exe
-
+API/bin/Debug/net9.0/API.dll
+*/Debug/*
+API/bin/Debug/net9.0/API.dll
+API/obj/Debug/net9.0/refint/API.dll
