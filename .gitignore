@@ -81,7 +81,6 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
-*obj
 *.iobj
 *.pch
 *.pdb
@@ -104,7 +103,6 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-*.dll
 
 # Chutzpah Test files
 _Chutzpah*
@@ -489,3 +487,4 @@ API/bin/Debug/net9.0/API.dll
 */Debug/*
 API/bin/Debug/net9.0/API.dll
 API/obj/Debug/net9.0/refint/API.dll
+.gitignore
