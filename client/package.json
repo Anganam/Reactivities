@@ -17,7 +17,7 @@
     "@mui/material": "^6.4.8",
     "@tanstack/react-query": "^5.71.1",
     "@tanstack/react-query-devtools": "^5.71.1",
-    "axios": "^1.8.4",
+    "axios": "^1.12.1",
     "date-fns": "^4.1.0",
     "react": "^19.0.0",
     "react-calendar": "^5.1.0",
